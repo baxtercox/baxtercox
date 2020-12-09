@@ -1,8 +1,6 @@
-### Hi there, I'm Baxter - 👋
-[<a href="src="https://baxter-porfolio.herokuapp.com/ <img align="left" alt="baxtercox.dev" width="22px" src="https://baxter-portfolio.herokuapp.com/" />][website]</a>
 
-<br />
-## I'm a Student, Developer, and Soon to be Full Stack Developer!!
+ Hi there, I'm Baxter - 👋
+ I'm a Student, Developer, and Soon to be Full Stack Developer!!
 
 - 🌱 I’m currently learning everything 🤣
 - Currently enrolled in the University of Richmonds Full Stack Developer program (Full-Stack, MERN)
@@ -11,6 +9,8 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects/ get employed
 - ⚡ Fun fact: I love to code and play guitar
 
+
+<img width="656" alt="webstite" src="https://user-images.githubusercontent.com/69552028/101688011-5cd5e280-3a39-11eb-8576-12a600252886.png">
 
 
 
@@ -37,9 +37,9 @@
 <br />
 <br />
 
----![Baxter's github stats](https://github-readme-stats.vercel.app/api?username=baxtercox&show_icons=true&theme=&bg_color=DEG,COLOR1,COLOR2,COLOR5)
+![Baxter's github stats](https://github-readme-stats.vercel.app/api?username=baxtercox&show_icons=true&theme=&bg_color=DEG,COLOR1,COLOR2,COLOR5)
 
----[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baxtercox&layout=compact)](https://github.com/baxtercox/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baxtercox&layout=compact)](https://github.com/baxtercox/github-readme-stats)
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
