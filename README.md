@@ -32,14 +32,10 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br />
-<br />
 
-![Baxter's github stats](https://github-readme-stats.vercel.app/api?username=baxtercox&show_icons=true&theme=&bg_color=DEG,COLOR1,COLOR2,COLOR5)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baxtercox&layout=compact)](https://github.com/baxtercox/github-readme-stats)
+![Baxter's github stats](https://github-readme-stats.vercel.app/api?username=baxtercox&show_icons=true&theme=dracula)
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
@@ -54,8 +50,8 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
 
 </details>
 
