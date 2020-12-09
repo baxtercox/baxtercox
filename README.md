@@ -1,5 +1,6 @@
 
- Hi there, I'm Baxter - 👋
+ Hi there, I'm Baxter - <img src="https://user-images.githubusercontent.com/69552028/101692674-8c3b1e00-3a3e-11eb-8104-498804e752ee.gif" width="30" height="30" />
+
  I'm a Student, Developer, and Soon to be Full Stack Developer!!
 
 - 🌱 I’m currently learning everything 🤣
@@ -37,23 +38,19 @@
 
 ![Baxter's github stats](https://github-readme-stats.vercel.app/api?username=baxtercox&show_icons=true&theme=dracula)
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+
+
   
-<!--START_SECTION:activity-->
+
 1. Finished an app that allows users too find potential bandmates (https://github.com/users/baxtercox/projects/1)
 2. 🗣 Deployed the frontend framework on a recent project called "git jobs ()
 
-<!--END_SECTION:activity-->
 
-</details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
-
-</details>
 
 [linkedin]: https://www.linkedin.com/in/baxter-cox-05a81814a/
 [website]: https://baxter-portfolio.herokuapp.com/
