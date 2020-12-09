@@ -1,8 +1,7 @@
 ### Hi there, I'm Baxter - 👋
+[<a href="src="https://baxter-porfolio.herokuapp.com/ <img align="left" alt="baxtercox.dev" width="22px" src="https://baxter-portfolio.herokuapp.com/" />][website]</a>
 
-[![Header](img/header.png)](https://baxter-portfolio.herokuapp.com/)
-[![Website](https://baxter-portfolio.herokuapp.com/)]()
-
+<br />
 ## I'm a Student, Developer, and Soon to be Full Stack Developer!!
 
 - 🌱 I’m currently learning everything 🤣
@@ -12,11 +11,8 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects/ get employed
 - ⚡ Fun fact: I love to code and play guitar
 
-### Connect with me!:
 
-[<img align="left" alt="baxtercox.dev" width="22px" src="https://baxter-portfolio.herokuapp.com/" />][website]
 
-[<img align="left" alt="linked | LinkedIn" width="22px" src="https://www.linkedin.com/in/baxter-cox-05a81814a/" />][linkedin]
 
 <br />
 
