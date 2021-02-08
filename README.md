@@ -10,7 +10,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects/ get employed
 - ⚡ Fun fact: I love to code and play guitar
 
-<a href="https://baxter-portfolio.herokuapp.com/">
+<a href="https://6021988193fe69229a4800cc--baxtercox-site.netlify.app">
 <img width="656" alt="webstite" src="https://user-images.githubusercontent.com/69552028/101688011-5cd5e280-3a39-11eb-8576-12a600252886.png">
 
 </a>
